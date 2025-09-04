@@ -51,8 +51,6 @@ CharityDapp/
 
 ---
 
-## ⚙️ Setup & Installation
-
 ### 1️⃣ Clone the repository
 
 ```bash
@@ -113,9 +111,3 @@ npx hardhat test
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to open issues or submit PRs.
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**.
